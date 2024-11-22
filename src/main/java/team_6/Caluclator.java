@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-class Test {
+class Caluclator {
     public static void main(String[] args) throws FileNotFoundException {
         // Load file
     	
