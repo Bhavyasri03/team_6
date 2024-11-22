@@ -9,7 +9,7 @@ class Test {
     public static void main(String[] args) throws FileNotFoundException {
         // Load file
     	
-        File file = new File("C:\\avinash\\file.txt");
+        File file = new File("C:\\file.txt");
         Scanner scanner = new Scanner(file);
 
         // Read numbers and operation from file
